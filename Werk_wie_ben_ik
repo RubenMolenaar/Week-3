@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Wie ben ik?</title>
+	<link rel="stylesheet" type="text/css" href="Wie_ben_ik_css.css">
+	<nav>
+		<ul>
+			<a href="Homepage_wie_ben_ik.html">Home</a>
+			<a href="opleiding_wie_ben_ik.html">Opleiding</a>
+			<a href="Werk_wie_ben_ik">Werk</a>
+		</ul>
+	</nav>
+</head>
+<body class="Container">
+	<div class="Maintext">
+		<h1>Wie ben ik</h1>
+		<h2>Naam?</h2>
+		<h3>Ruben Molenaar</h3>
+		<h2>Waarom heb ik deze opleiding gekozen?</h2>
+		<h3>Ik vind het leuk om websites te bouwen en ik wil hier meer over leren</h3>
+		<h2>Motivatie:</h2>
+		<h3>Door steeds nieuwe dingen te leren en met elkaar samen werken</h3>
+		<h2>Wat ik doe na de lessen:</h2>
+		<h3>De opdracht uitbreiden</h3>
+		<h2>Ontwikkelpunten:</h2>
+		<h3>Javascript</h3>
+		<h2>Vooropleiding:</h2>
+		<h3>Gilde ICT: op de stage veel over deze opleiding geleerd</h3>
+		<h2>Bijbaan:</h2>
+		<h3>Werkwijzer: Communiseren naar de klant</h3>
+		<h2>Foto:</h2>
+	</div>
+</body>
+</html>

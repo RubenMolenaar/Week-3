@@ -1,0 +1,20 @@
+.Maintext{
+	background-color: #1D1B1B;
+	margin-left: 60px;
+	margin-right: 60px;
+	padding: 20px 60px 5% 60px;
+	border: solid 1px #EC4D37;
+} 
+
+.Container {
+	background-color: #1D1B1B;
+}
+
+
+p {
+	font-size: 25px;
+	font-color: #EC4D37;
+}
+h1, h2, h3 {
+	font-color: #EC4D37;
+}
